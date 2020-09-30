@@ -8,6 +8,7 @@ class Notepad:
 
     #variables
     __root = Tk()
+    __root.wm_iconbitmap("report-3-16.ico")
 
     #default window width and height
     __thisWidth = 300
